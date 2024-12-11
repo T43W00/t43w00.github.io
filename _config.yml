@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: T43W00 # the main title
+title: "T43W00" # the main title
 
-tagline: 정보 보안 공부 일지 # it will display as the subtitle
+tagline: "정보 보안 공부 일지" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  정보 보안과 관련하여 공부한 내용을 정리한 글 올림.
+  "정보 보안과 관련하여 공부한 내용을 정리한 글 올림."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://t43w00.github.io"
 
 github:
-  username: t43w00 # change to your GitHub username
+  username: "t43w00" # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
