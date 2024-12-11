@@ -16,9 +16,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 윤태우 # the main title
+title: T43W00 # the main title
 
-tagline: 개발 & 보안 공부 일지 # it will display as the sub-title
+tagline: 정보 보안 공부 일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ # change to your twitter homepage
-    - https://github.com/ # change to your github homepage
+    - https://github.com/t43w00 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
