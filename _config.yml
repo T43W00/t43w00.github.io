@@ -19,11 +19,11 @@ title: T43W00 # the main title
 tagline: 정보 보안 공부 일지 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  정보 보안과 관련하여 공부한 내용 정리하여 올림.
+  정보 보안과 관련하여 공부한 내용 정리한 글 작성
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "t43w00.github.io"
+url: "https://t43w00.github.io"
 
 github:
   username: t43w00 # change to your GitHub username
